@@ -1,0 +1,7 @@
+.Letter {
+  color: white;
+}
+
+.Letter.silent {
+  color: magenta;
+}
