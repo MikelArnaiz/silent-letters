@@ -6,7 +6,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Word silentLetters={[2]}>talk</Word>
+        <Word silentLetters={[2]} pronunciation="ˈtɔːk/">
+          talk
+        </Word>
       </div>
     );
   }
